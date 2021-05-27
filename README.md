@@ -10,9 +10,9 @@ I would love to add your quotes to my banks.
 *Feel free to commit.*
 
 > Time is a drug. Too much of it kills you.
-> Terry Pratchett
+> (Terry Pratchett)
 
 > Your most unhappy customers are your greatest source of learning.
-> Bill Gates
+> (Bill Gates)
 
 # Why you try to update it even dude ?
