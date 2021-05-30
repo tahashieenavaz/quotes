@@ -16,6 +16,10 @@ I would love to add your quotes to my banks.
 > Your most unhappy customers are your greatest source of learning.
 > (Bill Gates)
 
+> A lot of people with high IQs are terrible investors because they've got terrible temperaments.
+> (Charlie Munger)
+
+
 # Why you update it often ?
 **Repetition** is a key **learning** aid because it helps transition a skill from the conscious to the subconscious.
 Updating this repository coerces me to open my old notebooks and actually review these great insights and of course compound my knowledge.
